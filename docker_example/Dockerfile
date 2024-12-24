@@ -1,4 +1,4 @@
-FROM langflow/langflow:latest
+FROM langflowai/langflow:latest
 
 RUN pip install html2text tld
 
